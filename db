@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<database>
+	<MSE name="D-Link DFL-100">
+		<parameter name="Стоимость" param="26576" />
+		<parameter name="Пропускная способность(Мбит/с)" param="50" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="3" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="30" />
+		<parameter name="Кол-во одновременных сессий" param="2048" />
+		<parameter name="Кол-во правил фильтрации" param="130" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="2" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="15" />
+	</MSE>
+	<MSE name="D-Link DFL-500">
+		<parameter name="Стоимость" param="32132" />
+		<parameter name="Пропускная способность(Мбит/с)" param="70" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="5" />
+		<parameter name="Кол-во портов 100МБит/с" param="5" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="35" />
+		<parameter name="Кол-во одновременных сессий" param="3000" />
+		<parameter name="Кол-во правил фильтрации" param="140" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="2" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="20" />
+	</MSE>
+	<MSE name="D-Link DFL-600">
+		<parameter name="Стоимость" param="35642" />
+		<parameter name="Пропускная способность(Мбит/с)" param="100" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="5" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="1" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="70" />
+		<parameter name="Кол-во одновременных сессий" param="3200" />
+		<parameter name="Кол-во правил фильтрации" param="1000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="6" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="D-Link DFL-900">
+		<parameter name="Стоимость" param="98769" />
+		<parameter name="Пропускная способность(Мбит/с)" param="170" />
+		<parameter name="Число зон безопасности" param="40" />
+		<parameter name="Кол-во портов 10МБит/с" param="8" />
+		<parameter name="Кол-во портов 100МБит/с" param="7" />
+		<parameter name="Кол-во портов 1ГБит/с" param="1" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="300" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="2000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="4" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="D-Link DFL-1000">
+		<parameter name="Стоимость" param="65473" />
+		<parameter name="Пропускная способность(Мбит/с)" param="240" />
+		<parameter name="Число зон безопасности" param="36" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="8" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="500" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="2000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="12" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="D-Link DFL-1500">
+		<parameter name="Стоимость" param="435475" />
+		<parameter name="Пропускная способность(Мбит/с)" param="400" />
+		<parameter name="Число зон безопасности" param="50" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="1500" />
+		<parameter name="Кол-во одновременных сессий" param="90000" />
+		<parameter name="Кол-во правил фильтрации" param="4500" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="20" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="512" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 5">
+		<parameter name="Стоимость" param="33717" />
+		<parameter name="Пропускная способность(Мбит/с)" param="40" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="3" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="70" />
+		<parameter name="Кол-во одновременных сессий" param="8000" />
+		<parameter name="Кол-во правил фильтрации" param="200" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="3" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 20">
+		<parameter name="Стоимость" param="43350" />
+		<parameter name="Пропускная способность(Мбит/с)" param="50" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="5" />
+		<parameter name="Кол-во портов 100МБит/с" param="5" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="70" />
+		<parameter name="Кол-во одновременных сессий" param="9000" />
+		<parameter name="Кол-во правил фильтрации" param="200" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="3" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 140">
+		<parameter name="Стоимость" param="67875" />
+		<parameter name="Пропускная способность(Мбит/с)" param="100" />
+		<parameter name="Число зон безопасности" param="40" />
+		<parameter name="Кол-во портов 10МБит/с" param="15" />
+		<parameter name="Кол-во портов 100МБит/с" param="15" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="540" />
+		<parameter name="Кол-во одновременных сессий" param="48000" />
+		<parameter name="Кол-во правил фильтрации" param="1000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="0" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="0" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 320M">
+		<parameter name="Стоимость" param="168583" />
+		<parameter name="Пропускная способность(Мбит/с)" param="175" />
+		<parameter name="Число зон безопасности" param="40" />
+		<parameter name="Кол-во портов 10МБит/с" param="6" />
+		<parameter name="Кол-во портов 100МБит/с" param="8" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="3000" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="2000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="5" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 350M">
+		<parameter name="Стоимость" param="216750" />
+		<parameter name="Пропускная способность(Мбит/с)" param="225" />
+		<parameter name="Число зон безопасности" param="40" />
+		<parameter name="Кол-во портов 10МБит/с" param="8" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="3500" />
+		<parameter name="Кол-во одновременных сессий" param="80000" />
+		<parameter name="Кол-во правил фильтрации" param="2000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="8" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 520M">
+		<parameter name="Стоимость" param="313083" />
+		<parameter name="Пропускная способность(Мбит/с)" param="300" />
+		<parameter name="Число зон безопасности" param="60" />
+		<parameter name="Кол-во портов 10МБит/с" param="8" />
+		<parameter name="Кол-во портов 100МБит/с" param="13" />
+		<parameter name="Кол-во портов 1ГБит/с" param="3" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="4000" />
+		<parameter name="Кол-во одновременных сессий" param="80000" />
+		<parameter name="Кол-во правил фильтрации" param="4000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="11" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="0" />
+	</MSE>
+	<MSE name="Juniper Networks SSG 550M">
+		<parameter name="Стоимость" param="577999" />
+		<parameter name="Пропускная способность(Мбит/с)" param="500" />
+		<parameter name="Число зон безопасности" param="60" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="4000" />
+		<parameter name="Кол-во одновременных сессий" param="80000" />
+		<parameter name="Кол-во правил фильтрации" param="4000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="16" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="1000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 210">
+		<parameter name="Стоимость" param="52935" />
+		<parameter name="Пропускная способность(Мбит/с)" param="75" />
+		<parameter name="Число зон безопасности" param="12" />
+		<parameter name="Кол-во портов 10МБит/с" param="6" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="350" />
+		<parameter name="Кол-во одновременных сессий" param="32000" />
+		<parameter name="Кол-во правил фильтрации" param="512" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="10" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="256" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 240">
+		<parameter name="Стоимость" param="144452" />
+		<parameter name="Пропускная способность(Мбит/с)" param="250" />
+		<parameter name="Число зон безопасности" param="32" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="6" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="4096" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="20" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="1000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 650">
+		<parameter name="Стоимость" param="828466" />
+		<parameter name="Пропускная способность(Мбит/с)" param="1500" />
+		<parameter name="Число зон безопасности" param="128" />
+		<parameter name="Кол-во портов 10МБит/с" param="12" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="10" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="8192" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="60" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="3000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 3400">
+		<parameter name="Стоимость" param="866999" />
+		<parameter name="Пропускная способность(Мбит/с)" param="6000" />
+		<parameter name="Число зон безопасности" param="256" />
+		<parameter name="Кол-во портов 10МБит/с" param="12" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="10" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="4000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="500" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="10000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 3600">
+		<parameter name="Стоимость" param="1348665" />
+		<parameter name="Пропускная способность(Мбит/с)" param="10000" />
+		<parameter name="Число зон безопасности" param="256" />
+		<parameter name="Кол-во портов 10МБит/с" param="20" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="10" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="100000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="40000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="500" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="20000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 5600">
+		<parameter name="Стоимость" param="3130830" />
+		<parameter name="Пропускная способность(Мбит/с)" param="15000" />
+		<parameter name="Число зон безопасности" param="256" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="13" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="100000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="80000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="500" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="45000" />
+	</MSE>
+	<MSE name="Juniper Networks SRX 5800">
+		<parameter name="Стоимость" param="3275330" />
+		<parameter name="Пропускная способность(Мбит/с)" param="30000" />
+		<parameter name="Число зон безопасности" param="512" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="15" />
+		<parameter name="Кол-во портов 1ГБит/с" param="15" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="100000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="80000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="500" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="85000" />
+	</MSE>
+	<MSE name="Juniper Networks J2320">
+		<parameter name="Стоимость" param="85760" />
+		<parameter name="Пропускная способность(Мбит/с)" param="140" />
+		<parameter name="Число зон безопасности" param="40" />
+		<parameter name="Кол-во портов 10МБит/с" param="5" />
+		<parameter name="Кол-во портов 100МБит/с" param="5" />
+		<parameter name="Кол-во портов 1ГБит/с" param="6" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="600" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="2048" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="20" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="256" />
+	</MSE>
+	<MSE name="Juniper Networks J2360">
+		<parameter name="Стоимость" param="93675" />
+		<parameter name="Пропускная способность(Мбит/с)" param="160" />
+		<parameter name="Число зон безопасности" param="50" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="6" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="800" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="2048" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="25" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="256" />
+	</MSE>
+	<MSE name="Juniper Networks J4350">
+		<parameter name="Стоимость" param="305465" />
+		<parameter name="Пропускная способность(Мбит/с)" param="300" />
+		<parameter name="Число зон безопасности" param="50" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="1500" />
+		<parameter name="Кол-во одновременных сессий" param="64000" />
+		<parameter name="Кол-во правил фильтрации" param="5192" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="30" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="256" />
+	</MSE>
+	<MSE name="Juniper Networks J6350">
+		<parameter name="Стоимость" param="594763" />
+		<parameter name="Пропускная способность(Мбит/с)" param="500" />
+		<parameter name="Число зон безопасности" param="50" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="5000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="10384" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="30" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="512" />
+	</MSE>
+	<MSE name="Juniper Networks NS 5200">
+		<parameter name="Стоимость" param="674333" />
+		<parameter name="Пропускная способность(Мбит/с)" param="5000" />
+		<parameter name="Число зон безопасности" param="1000" />
+		<parameter name="Кол-во портов 10МБит/с" param="11" />
+		<parameter name="Кол-во портов 100МБит/с" param="12" />
+		<parameter name="Кол-во портов 1ГБит/с" param="12" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="100000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="40000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="500" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25000" />
+	</MSE>
+	<MSE name="Juniper Networks NS 5400">
+		<parameter name="Стоимость" param="2311997" />
+		<parameter name="Пропускная способность(Мбит/с)" param="15000" />
+		<parameter name="Число зон безопасности" param="1000" />
+		<parameter name="Кол-во портов 10МБит/с" param="15" />
+		<parameter name="Кол-во портов 100МБит/с" param="15" />
+		<parameter name="Кол-во портов 1ГБит/с" param="13" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="100000" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="40000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="250" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25000" />
+	</MSE>
+	<MSE name="Cisco ASA5505-K8">
+		<parameter name="Стоимость" param="21428" />
+		<parameter name="Пропускная способность(Мбит/с)" param="40" />
+		<parameter name="Число зон безопасности" param="6" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="3" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="20" />
+		<parameter name="Кол-во одновременных сессий" param="6000" />
+		<parameter name="Кол-во правил фильтрации" param="150" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="3" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="20" />
+	</MSE>
+	<MSE name="Cisco 871-SEC-K9">
+		<parameter name="Стоимость" param="23353" />
+		<parameter name="Пропускная способность(Мбит/с)" param="50" />
+		<parameter name="Число зон безопасности" param="7" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="0" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="50" />
+		<parameter name="Кол-во одновременных сессий" param="7000" />
+		<parameter name="Кол-во правил фильтрации" param="200" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="3" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="20" />
+	</MSE>
+	<MSE name="Cisco ASA5505-BUN-K9">
+		<parameter name="Стоимость" param="24623" />
+		<parameter name="Пропускная способность(Мбит/с)" param="50" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="5" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="1" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="100" />
+		<parameter name="Кол-во одновременных сессий" param="8000" />
+		<parameter name="Кол-во правил фильтрации" param="150" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="2" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="30" />
+	</MSE>
+	<MSE name="Cisco ASA5505-50-BUN-K8">
+		<parameter name="Стоимость" param="30766" />
+		<parameter name="Пропускная способность(Мбит/с)" param="70" />
+		<parameter name="Число зон безопасности" param="8" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="2" />
+		<parameter name="Наличие сетевого интерфейса" param="1" />
+		<parameter name="Кол-во пользователей" param="150" />
+		<parameter name="Кол-во одновременных сессий" param="25000" />
+		<parameter name="Кол-во правил фильтрации" param="300" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="6" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="300" />
+	</MSE>
+	<MSE name="Cisco ASA5505-SEC-BUN-K8">
+		<parameter name="Стоимость" param="59897" />
+		<parameter name="Пропускная способность(Мбит/с)" param="100" />
+		<parameter name="Число зон безопасности" param="30" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="10" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="2" />
+		<parameter name="Кол-во пользователей" param="500" />
+		<parameter name="Кол-во одновременных сессий" param="40000" />
+		<parameter name="Кол-во правил фильтрации" param="600" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="8" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="350" />
+	</MSE>
+	<MSE name="Cisco ASA5505-SSL10-K8">
+		<parameter name="Стоимость" param="102546" />
+		<parameter name="Пропускная способность(Мбит/с)" param="175" />
+		<parameter name="Число зон безопасности" param="35" />
+		<parameter name="Кол-во портов 10МБит/с" param="10" />
+		<parameter name="Кол-во портов 100МБит/с" param="6" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="2500" />
+		<parameter name="Кол-во одновременных сессий" param="70000" />
+		<parameter name="Кол-во правил фильтрации" param="2000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="10" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="Cisco 2801-SEC-K9">
+		<parameter name="Стоимость" param="84968" />
+		<parameter name="Пропускная способность(Мбит/с)" param="130" />
+		<parameter name="Число зон безопасности" param="35" />
+		<parameter name="Кол-во портов 10МБит/с" param="4" />
+		<parameter name="Кол-во портов 100МБит/с" param="4" />
+		<parameter name="Кол-во портов 1ГБит/с" param="4" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="550" />
+		<parameter name="Кол-во одновременных сессий" param="45000" />
+		<parameter name="Кол-во правил фильтрации" param="2048" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="15" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="500" />
+	</MSE>
+	<MSE name="Palo Alto Networks PA-4020">
+		<parameter name="Стоимость" param="904576" />
+		<parameter name="Пропускная способность(Мбит/с)" param="2000" />
+		<parameter name="Число зон безопасности" param="80" />
+		<parameter name="Кол-во портов 10МБит/с" param="8" />
+		<parameter name="Кол-во портов 100МБит/с" param="8" />
+		<parameter name="Кол-во портов 1ГБит/с" param="8" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="8500" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="65" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="3500" />
+	</MSE>
+	<MSE name="Palo Alto Networks PA-4050">
+		<parameter name="Стоимость" param="1254768" />
+		<parameter name="Пропускная способность(Мбит/с)" param="10000" />
+		<parameter name="Число зон безопасности" param="950" />
+		<parameter name="Кол-во портов 10МБит/с" param="15" />
+		<parameter name="Кол-во портов 100МБит/с" param="15" />
+		<parameter name="Кол-во портов 1ГБит/с" param="20" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="100000" />
+		<parameter name="Кол-во правил фильтрации" param="40000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="350" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25000" />
+	</MSE>
+	<MSE name="Palo Alto Networks PA-4060">
+		<parameter name="Стоимость" param="1325467" />
+		<parameter name="Пропускная способность(Мбит/с)" param="10000" />
+		<parameter name="Число зон безопасности" param="1000" />
+		<parameter name="Кол-во портов 10МБит/с" param="15" />
+		<parameter name="Кол-во портов 100МБит/с" param="20" />
+		<parameter name="Кол-во портов 1ГБит/с" param="25" />
+		<parameter name="Наличие сетевого интерфейса" param="3" />
+		<parameter name="Кол-во пользователей" param="0" />
+		<parameter name="Кол-во одновременных сессий" param="60000" />
+		<parameter name="Кол-во правил фильтрации" param="45000" />
+		<parameter name="Кол-во виртуальных маршрутизаторов" param="125" />
+		<parameter name="Кол-во поддерживаемых туннелей VPN" param="25000" />
+	</MSE>
+</database>

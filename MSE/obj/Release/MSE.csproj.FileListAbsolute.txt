@@ -1,0 +1,25 @@
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\bin\Release\MSE.exe
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\bin\Release\MSE.pdb
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.csprojAssemblyReference.cache
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.ControlListContainer.resources
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.Form1.resources
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.KeyValuePairPanel.resources
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.Properties.Resources.resources
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.csproj.GenerateResource.cache
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.csproj.CoreCompileInputs.cache
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.exe
+E:\ВКР\Новая папка\МСЭ 6\MSE\MSE\obj\Release\MSE.pdb
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\bin\Release\MSE.exe
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\bin\Release\MSE.pdb
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.csprojAssemblyReference.cache
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.ControlListContainer.resources
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.Form1.resources
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.KeyValuePairPanel.resources
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.Properties.Resources.resources
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.csproj.GenerateResource.cache
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.csproj.CoreCompileInputs.cache
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.exe
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.pdb
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\bin\Release\Remotion.Linq.dll
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\bin\Release\Remotion.Linq.xml
+E:\ВКР\Алгоритм+прога\МСЭ 6\MSE\MSE\obj\Release\MSE.csproj.CopyComplete
